@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.073" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Adactin Hotel WebPage Validation" name="Adactin Hotel Login Page Validation with Valid Credentials" time="11.897">
+<system-out><![CDATA[
+When User should be in Adactin Login Page...................................passed
+And User should enter the valid credentials.................................passed
+And User should click Login button..........................................passed
+Then User should validate Login Success.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
